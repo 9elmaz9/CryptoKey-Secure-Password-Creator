@@ -1,4 +1,4 @@
-# CryptoKey-Secure-Password-Creator[![Password Generator](https://github.com/your_username/your_repository)
+# CryptoKey-Secure-Password-Creator[![Password Generator](https://github.com/your_username/your_repository)]
 [![Password Generator](https://i.pinimg.com/originals/65/ce/9e/65ce9e36f03f7a6c68a473f0b6c3c993.jpg)](https://github.com/your_username/your_repository)
 
 
